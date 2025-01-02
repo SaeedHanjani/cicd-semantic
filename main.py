@@ -1,6 +1,6 @@
 import os
 import click
-
+import pylint
 
 # Helper functions for backup and restore
 def backup_mysql():
